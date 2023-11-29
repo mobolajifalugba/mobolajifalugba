@@ -1,6 +1,6 @@
 ### Hi there👋, I am Mobolaji!
 
-### Data scientist and Analyst
+### Data scientist and Machine Learning Engineer
 
 - 🔭 I’m currently working on Unsupervised machine learning
 - 🌱 I’m currently learning Computer Vision
