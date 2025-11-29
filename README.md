@@ -1,4 +1,4 @@
-### Hi there👋, I am Mobolaji!
+### Hi there👋, I am Mobolaji !
 
 ### Data Scientist and AI Engineer
 
